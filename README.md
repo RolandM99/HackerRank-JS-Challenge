@@ -1,3 +1,3 @@
 # HackerRank-JS-Challenge
 
-Solution using JS of some HackerRank challenges .
+Solution of some HackerRank challenges using JS
